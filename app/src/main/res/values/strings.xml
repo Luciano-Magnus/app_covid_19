@@ -8,6 +8,6 @@
     <string name="mortes">Mortos:</string>
     <string name="n_casos_mundo">CASOS CONFIRMADOS NO MUNDO</string>
     <string name="n_casos_brasil">CASOS CONFIRMADOS NO BRASIL</string>
-
+    <string name="selecione">Selecione a categoria desejada:</string>
     <string name="atualizacao">Atualizado em:</string>
 </resources>
